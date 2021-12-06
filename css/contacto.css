@@ -1,0 +1,29 @@
+
+.jumbotron-heading {
+    color:#fffb00 ;
+}
+
+
+
+
+
+.btn-primary {
+    font-weight: 500;
+    color: #474747;
+    background-color: #fffb00;
+    border-color: transparent;
+}
+
+.card {
+    background-color: #969696;
+    border-color: transparent;
+    box-shadow:0 0 10px rgba(0,0,0,.3);
+    border-radius: 4px;
+}
+
+
+
+#labelcontacto {
+    font-weight: 500;
+    color: #474747
+}
