@@ -1,6 +1,6 @@
 # DRIPP
 Front-End de una Aplicación web de venta de calzados
 
-Este es un diseño Front-End de una aplicación de ventas, fue hecho por mi en mis inicios aprendiendo Diseño Web (2020)
+Este es un diseño Front-End de una aplicación de venta de calzados, fue hecho por mi en mis inicios aprendiendo diseño web (2020).
 
-Esta mayoritariamente desarrollado en HTML, CSS y Bootstrap, aunque el archivo "calculadora.html" posee un sencillo script de JS.
+Esta mayoritariamente desarrollado en HTML, CSS y Bootstrap, aunque el archivo "calculadora.html" posee un básico script en JavaScript.
