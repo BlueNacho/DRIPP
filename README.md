@@ -1,5 +1,5 @@
 # DRIPP
-Front-End de una Aplicación web de venta de calzados
+Front-End de Aplicación web de venta de calzados
 
 Este es un diseño Front-End de una aplicación de venta de calzados, fue hecho por mi en mis inicios aprendiendo diseño web (2020).
 
